@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for the research presented in the paper **[From Swath to Full-Disc: Advancing Precipitation Retrieval with Multimodal Knowledge Expansion]**. This task leverages the complementary strengths of multimodal data (IR, PMW, and PR) to address the constraints of narrow coverage and enhance retrieval accuracy. It includes the code for training and testing the model, as well as the necessary scripts and configurations for easy execution.
+This repository contains the code for the research presented in the paper **[From Swath to Full-Disc: Advancing Precipitation Retrieval with Multimodal Knowledge Expansion]** accecpted by 2025 KDD. This task leverages the complementary strengths of multimodal data (IR, PMW, and PR) to address the constraints of narrow coverage and enhance retrieval accuracy. It includes the code for training and testing the model, as well as the necessary scripts and configurations for easy execution.
 
 ## Dataset & Model Weights
 
